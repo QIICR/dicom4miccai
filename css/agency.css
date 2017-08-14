@@ -23,6 +23,11 @@ p.large {
 p.larger {
   font-size: 18px;
 }
+
+p.thick {
+  font-weight: bold;
+}
+
 a,
 a:hover,
 a:focus,
