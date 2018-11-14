@@ -1,0 +1,308 @@
+AnatomicRegionSequence_CodeMeaning	AnatomicRegionSequence_CodeValue	AnatomicRegionSequence_CodingSchemeDesignator	SOPInstanceUID	SegmentAlgorithmName	SegmentAlgorithmType	SegmentLabel	SegmentNumber	SegmentedPropertyCategoryCodeSequence_CodeMeaning	SegmentedPropertyCategoryCodeSequence_CodeValue	SegmentedPropertyCategoryCodeSequence_CodingSchemeDesignator	SegmentedPropertyTypeCodeSequence_CodeMeaning	SegmentedPropertyTypeCodeSequence_CodeValue	SegmentedPropertyTypeCodeSequence_CodingSchemeDesignator
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1464.1535579216.777705		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1503.1535579222.290092		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1598.1535579226.955417		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1682.1535579231.637897		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1689.1535579239.884864		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1704.1535579248.558518		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1738.1535579273.363117		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1745.1535579277.449818		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1747.1535579281.570167		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1754.1535579285.837256		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1761.1535579290.247790		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1768.1535579294.62796		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1775.1535579297.824959		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1777.1535579301.742483		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1786.1535579305.592698		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1793.1535579309.450480		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1800.1535579313.484436		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1802.1535579317.348082		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1810.1535579321.273133		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1848.1535579355.236961		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1855.1535579361.579411		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1862.1535579368.180797		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1874.1535579374.784165		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1898.1535579397.119750		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1905.1535579400.768054		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1914.1535579404.798636		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1916.1535579408.673432		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1923.1535579412.764934		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1930.1535579416.616255		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1937.1535579420.510654		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1944.1535579424.711062		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Lung	T-28000	SRT	1.2.276.0.7230010.3.1.4.0.1946.1535579428.957118		MANUAL	Nodule	1	Morphological Abnormal Structure	M-01000	SRT	Nodule	M-03010	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.16056.1513205118.346		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.16056.1513205118.346		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.16056.1513205118.346		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.16056.1513205118.346		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5332.1513205117.173		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5332.1513205117.173		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5332.1513205117.173		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5332.1513205117.173		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.6596.1513205116.413		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.6596.1513205116.413		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.6596.1513205116.413		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.6596.1513205116.413		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.14288.1513205119.4		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.14288.1513205119.4		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.14288.1513205119.4		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.14288.1513205119.4		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.20024.1513205119.699		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.20024.1513205119.699		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.20024.1513205119.699		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.20024.1513205119.699		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5420.1513205120.882		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5420.1513205120.882		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5420.1513205120.882		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5420.1513205120.882		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.15020.1513205123.53		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.15020.1513205123.53		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.15020.1513205123.53		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.15020.1513205123.53		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.16656.1513205122.202		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.16656.1513205122.202		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.16656.1513205122.202		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.16656.1513205122.202		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.18708.1513205121.607		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.18708.1513205121.607		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.18708.1513205121.607		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.18708.1513205121.607		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.17232.1513205124.808		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.17232.1513205124.808		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.17232.1513205124.808		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.17232.1513205124.808		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.20236.1513205124.214		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.20236.1513205124.214		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.20236.1513205124.214		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.20236.1513205124.214		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.6496.1513205125.611		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.6496.1513205125.611		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.6496.1513205125.611		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.6496.1513205125.611		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.13172.1513205127.504		MANUAL	Peripheral zone of the prostate	1	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.13172.1513205127.504		MANUAL	Lesion	2	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.13172.1513205127.504		MANUAL	Prostate	3	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.19392.1513205126.759		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.19392.1513205126.759		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.19392.1513205126.759		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.19392.1513205126.759		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.8092.1513205128.612		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.8092.1513205128.612		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.8092.1513205128.612		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.8092.1513205128.612		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.14756.1513205131.66		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.14756.1513205131.66		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.14756.1513205131.66		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.14756.1513205131.66		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.1952.1513205130.87		MANUAL	Peripheral zone of the prostate	1	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.1952.1513205130.87		MANUAL	Lesion	2	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.1952.1513205130.87		MANUAL	Prostate	3	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5832.1513205129.320		MANUAL	Normal	1	Tissue	T-D0050	SRT	Normal	G-A460	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5832.1513205129.320		MANUAL	Peripheral zone of the prostate	2	Anatomical Structure	T-D000A	SRT	Peripheral zone of the prostate	T-D05E4	SRT
+Peripheral zone of the prostate	T-D05E4	SRT	1.2.276.0.7230010.3.1.4.1426846371.5832.1513205129.320		MANUAL	Lesion	3	Morphologically Altered Structure	M-01000	SRT	Lesion	M-01100	SRT
+			1.2.276.0.7230010.3.1.4.1426846371.5832.1513205129.320		MANUAL	Prostate	4	Anatomical Structure	T-D000A	SRT	Prostate	T-9200B	SRT
+Aortic arch	T-42300	SRT	1.2.276.0.7230010.3.1.4.8323329.18234.1440001306.224431	Iowa QIN Aortic Arch Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Cerebellum	T-A6000	SRT	1.2.276.0.7230010.3.1.4.8323329.18264.1440001306.954293	Iowa QIN Cerebellum Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Liver	T-62000	SRT	1.2.276.0.7230010.3.1.4.8323329.18294.1440001307.576778	Iowa QIN Liver Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18355.1440001308.643362		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18414.1440001309.742217		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18473.1440001310.727495	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18532.1440001311.773522	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18591.1440001312.777033		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18648.1440001313.775071		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18707.1440001314.880295	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18766.1440001315.894931	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18826.1440001316.863789		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18885.1440001317.872308		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.18945.1440001318.898975	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.19004.1440001319.883812	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+Aortic arch	T-42300	SRT	1.2.276.0.7230010.3.1.4.8323329.19063.1440001328.721864	Iowa QIN Aortic Arch Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Cerebellum	T-A6000	SRT	1.2.276.0.7230010.3.1.4.8323329.19093.1440001329.422550	Iowa QIN Cerebellum Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Liver	T-62000	SRT	1.2.276.0.7230010.3.1.4.8323329.19123.1440001329.936900	Iowa QIN Liver Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19180.1440001330.907568		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19236.1440001331.990060		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19291.1440001333.6181	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19346.1440001334.11578	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19401.1440001335.123851		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19456.1440001336.228852		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19515.1440001337.180089	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19574.1440001338.128874	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19632.1440001339.100666		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19689.1440001340.126627		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19746.1440001341.179873	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+oropharynx	T-55200	SRT	1.2.276.0.7230010.3.1.4.8323329.19805.1440001342.141991	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+Aortic arch	T-42300	SRT	1.2.276.0.7230010.3.1.4.8323329.19866.1440001356.86424	Iowa QIN Aortic Arch Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Cerebellum	T-A6000	SRT	1.2.276.0.7230010.3.1.4.8323329.19899.1440001357.186323	Iowa QIN Cerebellum Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Liver	T-62000	SRT	1.2.276.0.7230010.3.1.4.8323329.19929.1440001358.56040	Iowa QIN Liver Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20013.1440001360.529936		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20013.1440001360.529936		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20093.1440001362.811456		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20093.1440001362.811456		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20179.1440001365.123124	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20179.1440001365.123124	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20256.1440001367.522637	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20256.1440001367.522637	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20338.1440001369.877606		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20338.1440001369.877606		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20425.1440001372.331793		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20425.1440001372.331793		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20509.1440001374.798373	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20509.1440001374.798373	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20592.1440001377.53065	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20592.1440001377.53065	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20674.1440001379.516580		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20674.1440001379.516580		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20762.1440001381.783643		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20762.1440001381.783643		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20838.1440001384.73095	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20838.1440001384.73095	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+base of tongue	T-53131	SRT	1.2.276.0.7230010.3.1.4.8323329.20914.1440001386.374538	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.20914.1440001386.374538	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+Aortic arch	T-42300	SRT	1.2.276.0.7230010.3.1.4.8323329.20973.1440001395.600106	Iowa QIN Aortic Arch Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Cerebellum	T-A6000	SRT	1.2.276.0.7230010.3.1.4.8323329.21003.1440001396.316070	Iowa QIN Cerebellum Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+Liver	T-62000	SRT	1.2.276.0.7230010.3.1.4.8323329.21033.1440001396.844644	Iowa QIN Liver Segmentation	AUTOMATIC	Reference Region	1	Spatial and Relational Concept	R-42018	SRT	Reference Region	C94970	NCIt
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21173.1440001399.543799		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21173.1440001399.543799		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21173.1440001399.543799		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21173.1440001399.543799		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21323.1440001402.346571		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21323.1440001402.346571		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21323.1440001402.346571		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21323.1440001402.346571		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21461.1440001405.32420	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21461.1440001405.32420	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21461.1440001405.32420	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21461.1440001405.32420	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21598.1440001407.831201	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21598.1440001407.831201	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21598.1440001407.831201	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21598.1440001407.831201	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21737.1440001410.683989		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21737.1440001410.683989		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21737.1440001410.683989		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21737.1440001410.683989		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.21879.1440001413.377103		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21879.1440001413.377103		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21879.1440001413.377103		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.21879.1440001413.377103		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22048.1440001416.180011	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22048.1440001416.180011	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22048.1440001416.180011	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22048.1440001416.180011	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22206.1440001418.977008	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22206.1440001418.977008	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22206.1440001418.977008	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22206.1440001418.977008	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22348.1440001421.904481		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22348.1440001421.904481		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22348.1440001421.904481		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22348.1440001421.904481		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22501.1440001424.807663		MANUAL	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22501.1440001424.807663		MANUAL	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22501.1440001424.807663		MANUAL	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22501.1440001424.807663		MANUAL	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22651.1440001427.437108	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22651.1440001427.437108	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22651.1440001427.437108	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22651.1440001427.437108	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+pharyngeal tonsil (adenoid)	T-C5300	SRT	1.2.276.0.7230010.3.1.4.8323329.22797.1440001430.98599	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Primary	1	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Primary	M-80003	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22797.1440001430.98599	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	2	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22797.1440001430.98599	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	3	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+lymph node of head and neck	T-C4004	SRT	1.2.276.0.7230010.3.1.4.8323329.22797.1440001430.98599	Iowa QIN PET Tumor Segmentation 1.0	SEMIAUTOMATIC	Neoplasm, Secondary	4	Morphologically Altered Structure	M-01000	SRT	Neoplasm, Secondary	M-80006	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3096453.1531852342.11339	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3096453.1531852342.11339	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3096453.1531852342.11339	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3099448.1531852345.448072	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3099448.1531852345.448072	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3099448.1531852345.448072	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3101166.1531852346.990354	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3101166.1531852346.990354	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3101166.1531852346.990354	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3121581.1531852368.642047	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3121581.1531852368.642047	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3121581.1531852368.642047	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3123875.1531852371.825371	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3123875.1531852371.825371	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3123875.1531852371.825371	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3126825.1531852375.472928	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3126825.1531852375.472928	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3126825.1531852375.472928	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3063054.1531852311.356185	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3063054.1531852311.356185	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3063054.1531852311.356185	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3065752.1531852313.581037	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3065752.1531852313.581037	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3065752.1531852313.581037	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3068561.1531852316.580356	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3068561.1531852316.580356	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3068561.1531852316.580356	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3054872.1531852304.42921	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3054872.1531852304.42921	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3054872.1531852304.42921	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3057387.1531852305.881281	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3057387.1531852305.881281	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3057387.1531852305.881281	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3059262.1531852307.751475	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3059262.1531852307.751475	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3059262.1531852307.751475	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3021316.1531852268.20926	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3021316.1531852268.20926	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3021316.1531852268.20926	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3124153.1531852371.660387	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3124153.1531852371.660387	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3124153.1531852371.660387	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3128092.1531852377.127471	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3128092.1531852377.127471	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3128092.1531852377.127471	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3163452.1531852420.322799	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3163452.1531852420.322799	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3163452.1531852420.322799	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3165253.1531852421.399002	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3165253.1531852421.399002	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3165253.1531852421.399002	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3167011.1531852422.224004	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3167011.1531852422.224004	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3167011.1531852422.224004	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3168388.1531852423.175547	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3168388.1531852423.175547	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3168388.1531852423.175547	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.7642.1531853866.782911	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7642.1531853866.782911	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7754.1531853867.663464	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7754.1531853867.663464	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7854.1531853868.316317	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7854.1531853868.316317	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7979.1531853870.322127	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.7979.1531853870.322127	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3182622.1531852432.927344	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3182622.1531852432.927344	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3182622.1531852432.927344	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3183350.1531852433.658524	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3183350.1531852433.658524	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3183350.1531852433.658524	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3184689.1531852434.985595	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3184689.1531852434.985595	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3184689.1531852434.985595	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.3188113.1531852437.107139	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3188113.1531852437.107139	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.3188113.1531852437.107139	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.9014.1531853883.71934	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9014.1531853883.71934	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9014.1531853883.71934	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.9214.1531853886.883331	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9214.1531853886.883331	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9214.1531853886.883331	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.9326.1531853887.558268	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9326.1531853887.558268	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9326.1531853887.558268	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.9390.1531853888.221447	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9390.1531853888.221447	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.9390.1531853888.221447	GlistrBoost	SEMIAUTOMATIC	Enhancing Lesion	3	Morphologically Altered Structure	M-01000	SRT	Enhancing Lesion	C113842	NCIt
+			1.2.276.0.7230010.3.1.4.8323329.6555.1531853852.721590	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6555.1531853852.721590	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6651.1531853853.603516	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6651.1531853853.603516	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6747.1531853854.210125	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6747.1531853854.210125	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6843.1531853854.790023	GlistrBoost	SEMIAUTOMATIC	Necrosis	1	Morphologically Altered Structure	M-01000	SRT	Necrosis	M-54000	SRT
+			1.2.276.0.7230010.3.1.4.8323329.6843.1531853854.790023	GlistrBoost	SEMIAUTOMATIC	Edema	2	Morphologically Altered Structure	M-01000	SRT	Edema	M-36300	SRT
